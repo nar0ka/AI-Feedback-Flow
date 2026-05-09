@@ -7,7 +7,7 @@
 **AI Feedback Flow** is an autonomous digital customer service ecosystem developed by Naroka Automation Studios. It replaces traditional manual feedback monitoring with a high-precision architectural solution that combines Gemini's neural computations with n8n workflow automation.
 
 ### 🛠 Architecture Preview
-![DeepPublish Schema](изображение_2026-04-28_005541412.png)
+![DeepPublish Schema](изображение_2026-05-09_221223315.png)
 
 ---
 
